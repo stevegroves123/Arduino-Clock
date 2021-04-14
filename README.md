@@ -17,4 +17,4 @@ Microcontroiller - https://coolcomponents.co.uk/products/seeeduino-xiao-arduino-
 
 Three small press-to-make buttons, one for "enter" and one each for up and down.
 ![Analog Clock](https://user-images.githubusercontent.com/10800904/114734309-0278c580-9d3c-11eb-9325-3f1f3a40ac5f.jpg)
-
+In the picture the Xiao fits behind the display so all you see is the type-c usb port.  At the moment the power comes from the usb port, however, a small LiPo or LiOn battery would easily power it.
