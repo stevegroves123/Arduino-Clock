@@ -16,3 +16,5 @@ OLED display - Any i2C oled, but an SPI could be used if you change the code. I 
 Microcontroiller - https://coolcomponents.co.uk/products/seeeduino-xiao-arduino-microcontroller-samd21-cortex-m0?_pos=2&_sid=62fc70a32&_ss=r 
 
 Three small press-to-make buttons, one for "enter" and one each for up and down.
+![Analog Clock](https://user-images.githubusercontent.com/10800904/114734309-0278c580-9d3c-11eb-9325-3f1f3a40ac5f.jpg)
+
